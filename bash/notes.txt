@@ -1,0 +1,11 @@
+https://en.wikipedia.org/wiki/Sort_%28Unix%29
+https://chase2learn.com/hackerrank-linux-shell-solutions/
+https://www.thegeekstuff.com/2010/01/awk-introduction-tutorial-7-awk-print-examples/
+https://tldp.org/LDP/Bash-Beginners-Guide/html/sect_04_02.html
+https://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/
+https://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/
+https://www.youtube.com/watch?v=WX5Zfflvdt0
+https://www.grymoire.com/Unix/Sed.html#uh-10a
+https://tldp.org/LDP/abs/html/x23170.html
+https://www.folkstalk.com/2012/01/sed-command-in-unix-examples.html
+https://www.grymoire.com/Unix/Sed.html#uh-10a
